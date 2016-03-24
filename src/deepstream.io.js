@@ -36,7 +36,6 @@ var Deepstream = function() {
 	this._messageProcessor = null;
 	this._messageDistributor = null;
 	this._eventHandler = null;
-	this._rpcHandler = null;
 	this._recordHandler = null;
 	this._webRtcHandler = null;
 	this._initialised = false;
